@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Сторінка-1" id="ukohb4NKVL2O7b2nq3W_">
-    <mxGraphModel dx="1000" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="vJz6uQ4hCLUjIYuGpW7d-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJz6uQ4hCLUjIYuGpW7d-40" target="vJz6uQ4hCLUjIYuGpW7d-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vJz6uQ4hCLUjIYuGpW7d-40" value="&lt;font face=&quot;Cascadia Mono&quot;&gt;&lt;span style=&quot;font-size: 12.6667px; background-color: rgb(255, 255, 255);&quot;&gt;x += dx&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=27;" vertex="1" parent="1">
+        <mxCell id="vJz6uQ4hCLUjIYuGpW7d-40" value="&lt;font face=&quot;Cascadia Mono&quot;&gt;&lt;span style=&quot;font-size: 12.6667px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Вивід &lt;/font&gt;x,y&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=27;" vertex="1" parent="1">
           <mxGeometry x="425" y="890" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vJz6uQ4hCLUjIYuGpW7d-42" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
